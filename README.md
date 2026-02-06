@@ -9,8 +9,8 @@
 
 Проект разработан для образовательных целей и безопасного тестирования собственных приложений.
 
-⚡ Быстрый старт
-# Запуск сканера
+#⚡ Быстрый старт
+Запуск сканера
 python3 oauth_scanner.py "https://example.com/auth?client_id=123&redirect_uri=https://app.com/callback&response_type=code&state=xyz"
 
 # Или интерактивный режим
